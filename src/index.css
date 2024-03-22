@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  background-color: rgba(228, 233, 238, 0.082);
+}
+
+.btnColor{
+    @apply btn bg-[#36846b] hover:bg-[#4bb39a] text-white p-3 text-center 
+  }
+.input_login{
+    @apply w-full  px-4 py-3 rounded-md border border-black  text-gray-100 bg-white focus:dark:border-violet-400
+  }
