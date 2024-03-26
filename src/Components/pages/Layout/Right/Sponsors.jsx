@@ -1,7 +1,7 @@
 const Sponsors = () => {
   return (
     <div>
-        <h1 className="text-xl font-semibold py-2">Sponsord</h1>
+        <h1 className="text-xl font-semibold py-2 text-blue-600">Sponsored</h1>
       <div className="flex gap-2 items-center bg-base-100 shadow-xl mb-2 w-full md:w-[300px] h-[160px]">
         <figure>
           <img className="rounded-lg w-[160px] h-[140px] object-cover"
@@ -15,7 +15,7 @@ const Sponsors = () => {
         <p>website: abcd@efg.com</p>
         </div>
       </div>
-      <div className="flex gap-2 items-center bg-base-100 shadow-xl mb-2 w-full md:w-[300px] h-[160px]">
+      <div className="flex gap-2 items-center bg-base-100 shadow-xl mb-6 w-full md:w-[300px] h-[160px]">
         <figure>
           <img className="rounded-lg w-[160px] h-[140px] object-cover"
             src="https://i.ibb.co/HzVXtyn/AKA8518.jpg"

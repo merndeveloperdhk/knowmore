@@ -7,7 +7,7 @@ const UploadField = () => {
       <div className="flex items-center gap-2">
         <div className="avatar">
           <div className="w-12 rounded-full">
-            <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+            <img src="https://i.ibb.co/Qch1yF8/274541232-668589014459743-1501714678471148242-n.jpg" />
           </div>
         </div>
         <input
